@@ -8,4 +8,3 @@ description: I'm a second year Computer Science student at Durham
 images:
 - content/ore.jpg
 ---
-
