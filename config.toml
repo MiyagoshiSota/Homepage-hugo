@@ -29,7 +29,7 @@ theme = "hugo-developer-portfolio"
 [menu]
 
   [[menu.main]]
-  name = "About"
+  name = "AboutMe"
   URL = "about"
   weight=1
 
@@ -42,11 +42,6 @@ theme = "hugo-developer-portfolio"
   name = "Portfolio"
   URL = "portfolio"
   weight=3
-
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight=4
 
 
 [params]
@@ -61,8 +56,8 @@ author = "Sam Robbins"
   formAction = "" #contact form works with formspree.io
 
   [params.footer]
-  email = "samrobbinsgb@gmail.com"
-  address = "Durham, UK"
+  email = "miyagoshisouta@gmail.com"
+  address = "Aichi, JP"
   googlemaps = "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJwbHYJaUqfEgRK0Ui9dVGimc&key=AIzaSyAE_4rVAKux_DSPcb_OdSRDaovtPOSk_3U"
 
 [markup]

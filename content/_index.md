@@ -6,6 +6,6 @@ author: Sam Robbins
 title: Sam Robbins' Website
 description: I'm a second year Computer Science student at Durham
 images:
-- home-cover.png
+- ore.png
 ---
 
