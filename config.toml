@@ -1,7 +1,7 @@
 # Base information
 baseURL = "https://example.com"
 languageCode = "en-gb"
-title = "Sam Robbins"
+title = "Miyagoshi Sota"
 googleAnalytics = ""
 
 # Remove this when using normally
@@ -47,8 +47,8 @@ theme = "hugo-developer-portfolio"
 [params]
 home = "Home"
 # Meta data
-description = "The website of Sam Robbins, 2nd Year Computer Science Student at Durham University"
-author = "Sam Robbins"
+description = "The website of Miyagoshi Sota, 2nd Year Computer Science Student at Durham University"
+author = "Miyagoshi Sota"
 
 
   [params.contact]
