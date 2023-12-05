@@ -6,5 +6,5 @@ author: Miyagoshi Sota
 title: Sota Miyagoshi Website
 description: I'm a second year Computer Science student at Durham
 images:
-- content/ore.jpg
+- ore.jpg
 ---
