@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://example.com"
+baseURL = "https://homepage-hugo-chi.vercel.app/blog"
 languageCode = "en-gb"
 title = "Miyagoshi Sota"
 googleAnalytics = ""
