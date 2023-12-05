@@ -3,7 +3,7 @@ title: "About Me"
 date: 2019-05-12T12:14:34+06:00
 description: "This is meta description."
 author : "Miyagoshi Sota"
-authorImage : "./ore.jpg"
+authorImage : "ore.jpg"
 ---
 
 こんにちは、宮腰颯太と申します。私は日本の福岡市出身で、現在は東京在住です。趣味は多岐にわたり、特に音楽、旅行、そしてプログラミングに情熱を注いでいます。
